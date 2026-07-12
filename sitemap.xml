@@ -6,7 +6,17 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://dolmencarrental.com/</loc>
-  <lastmod>2025-03-05T20:40:11.509Z</lastmod>
+  <lastmod>2026-07-12</lastmod>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dolmencarrental.com/contact/</loc>
+  <lastmod>2026-07-12</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dolmencarrental.com/privacy/</loc>
+  <lastmod>2026-07-12</lastmod>
+  <priority>0.30</priority>
 </url>
 </urlset>
