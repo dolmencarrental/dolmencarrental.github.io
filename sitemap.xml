@@ -6,12 +6,12 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://dolmencarrental.com/</loc>
-  <lastmod>2026-07-12</lastmod>
+  <lastmod>2026-10-04</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://dolmencarrental.com/car-hire-mgarr-ferry-terminal/</loc>
-  <lastmod>2026-07-12</lastmod>
+  <lastmod>2026-10-04</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
@@ -31,7 +31,7 @@
 </url>
 <url>
   <loc>https://dolmencarrental.com/car-hire-xaghra-gozo/</loc>
-  <lastmod>2026-07-12</lastmod>
+  <lastmod>2026-10-04</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -61,27 +61,32 @@
 </url>
 <url>
   <loc>https://dolmencarrental.com/renting-a-car-on-gozo-guide/</loc>
-  <lastmod>2026-07-12</lastmod>
+  <lastmod>2026-10-04</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
   <loc>https://dolmencarrental.com/noleggio-auto-gozo/</loc>
-  <lastmod>2026-07-12</lastmod>
+  <lastmod>2026-10-04</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dolmencarrental.com/location-voiture-gozo/</loc>
-  <lastmod>2026-07-12</lastmod>
+  <lastmod>2026-10-04</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dolmencarrental.com/mietwagen-gozo/</loc>
-  <lastmod>2026-07-12</lastmod>
+  <lastmod>2026-10-04</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dolmencarrental.com/auto-huren-gozo/</loc>
-  <lastmod>2026-07-12</lastmod>
+  <lastmod>2026-10-04</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dolmencarrental.com/wynajem-auta-gozo/</loc>
+  <lastmod>2026-10-04</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
